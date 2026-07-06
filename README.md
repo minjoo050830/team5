@@ -59,7 +59,7 @@ LLM	Google Gemini 2.5 Flash
 ### 팀원
 팀원명	GitHub ID
 강민주	minjoo050830
-윤선화	
+윤선화	ysh125
 장지나	jinasy-hash
 
 모든 팀원이 데이터 전처리, 모델링, 프롬프트 엔지니어링, 문서화 등 프로젝트 전 과정에 함께 기여하였습니다.
